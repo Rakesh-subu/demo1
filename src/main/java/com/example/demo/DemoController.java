@@ -9,7 +9,7 @@ public class DemoController {
 @ResponseBody
 	@RequestMapping("/")
 	public String demo() {
-		return "Hi Satya welcome to AWS";
+		return "Hi Rakesh welcome to AWS";
 	}
 	
 	
